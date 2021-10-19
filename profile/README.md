@@ -20,8 +20,8 @@ provided on [What’s New in 2.0?](https://pi4j.com/about/new-in-v2/).
 
 Sources: [pi4j-v1](https://github.com/Pi4J/pi4j-v1)
 
-V1.3: Java 8
-V1.4: Java 11
+* V1.3: Java 8
+* V1.4: Java 11
 
 The original library which started in 2012 and got a last release in 2021. Up till version 1.3 the library targets Java 8,
 while version 1.4 relies on Java 11. More info is provided on [“Previous versions (V.1)"](https://pi4j.com/about/previous-version-v1/).

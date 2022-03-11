@@ -7,6 +7,8 @@ their application business logic**.
 
 All documentation is available on [pi4j.com](https://pi4j.com/).
 
+Discussions (former Forum) about the Pi4J (V2) project or here on GitHub on [github.com/Pi4J/pi4j-v2/discussions](https://github.com/Pi4J/pi4j-v2/discussions).
+
 ## Version 2 is the active project
 
 Sources: [pi4j-v2](https://github.com/Pi4J/pi4j-v2)
